@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,2&height=350&section=header&text=Fraud%20Detection%20System&fontSize=68&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=ML-Powered%20Anomaly%20Detection&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,12&height=350&section=header&text=Fraud%20Detection%20System&fontSize=68&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=ML-Powered%20Anomaly%20Detection&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=700&lines=🔍+Catch+Fraudulent+Transactions;⚡+Real-Time+Prediction;🎯+83%25+Fraud+Detection+Rate;💰+%24127K+Saved+Annually"/>
@@ -83,13 +83,13 @@ Actual Fraud 16 82 ← 83.67% caught 🎯
 <td>
 
 **📧 Email**  
-[your.email@example.com](mailto:riyaggit58@gmail.com)
+[riyaggit58@gmail.com](mailto:riyaggit58@gmail.com)
 
 </td>
 <td>
 
 **💼 LinkedIn**  
-[linkedin.com/in/12Anushree](https://linkedin.com/in/anushree-saha-4bb3a4368)
+[linkedin.com/in/anushree-saha-4bb3a4368](https://linkedin.com/in/anushree-saha-4bb3a4368)
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Actual Fraud 16 82 ← 83.67% caught 🎯
 <td>
 
 **🐙 GitHub**  
-[github.com/yourusername](https://github.com/12Anushree)
+[github.com/12Anushree](https://github.com/12Anushree)
 
 </td>
 </tr>
@@ -115,4 +115,4 @@ Actual Fraud 16 82 ← 83.67% caught 🎯
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,2&height=250&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=32&fontColor=00000&animation=twinkling&fontAlignY=55&desc=See%20you%20next%20time!&descSize=18&descAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,12&height=250&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=32&fontColor=00000&animation=twinkling&fontAlignY=55&desc=See%20you%20next%20time!&descSize=18&descAlignY=80"/>
