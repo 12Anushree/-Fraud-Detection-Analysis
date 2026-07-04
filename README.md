@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,2&height=250&section=header&text=Fraud%20Detection%20System&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=ML-Powered%20Anomaly%20Detection&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,2&height=350&section=header&text=Fraud%20Detection%20System&fontSize=68&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=ML-Powered%20Anomaly%20Detection&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=700&lines=🔍+Catch+Fraudulent+Transactions;⚡+Real-Time+Prediction;🎯+83%25+Fraud+Detection+Rate;💰+%24127K+Saved+Annually"/>
@@ -51,8 +51,68 @@ Actual Fraud 16 82 ← 83.67% caught 🎯
 📊 Precision (Fraud): 87.23% (87% real fraud)
 📊 False Positive Rate: 0.02% (minimal friction)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,2,6&height=120&section=footer&fontColor=fff&animation=twinkling"/> ```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📬 Connect With Me
+
+<div align="center">
+
+### Let's Connect and Create Magic Together! ✨
+
+<br/>
+
+<p>
+  <a href="www.linkedin.com/in/anushree-saha-4bb3a4368">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:riyaggit58@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dc1a.gif" width="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/12Anushree" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441149-fce8-4b1b-9950-f5867a04bc6c.gif" width="70"/>
+  </a>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+**📧 Email**  
+[your.email@example.com](mailto:riyaggit58@gmail.com)
+
+</td>
+<td>
+
+**💼 LinkedIn**  
+[linkedin.com/in/12Anushree](https://linkedin.com/in/anushree-saha-4bb3a4368)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🐙 GitHub**  
+[github.com/yourusername](https://github.com/12Anushree)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+### ⭐ Star this repo if it helped you! ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,2,2&height=250&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=32&fontColor=00000&animation=twinkling&fontAlignY=55&desc=See%20you%20next%20time!&descSize=18&descAlignY=80"/>
