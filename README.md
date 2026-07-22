@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> The Challenge
+## 🎯 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="70"> The Challenge
 
 <img align="right" alt="Security" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/dfcbc25460ca8b7bf6d1a3e2b0edd5a4.gif">
 
